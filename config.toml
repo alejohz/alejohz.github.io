@@ -1,32 +1,32 @@
-baseURL = "https://example.com/"
+baseURL = "/"
 languageCode = "en"
 title = "Alejandro Henao"
 theme = "hugo-initio"
 
 [params]
     name = "Alejandro Henao"
-    description = "Data Scientist and MlOps Engineer"
+    description = "Data Scientist and MLOps Engineer"
     email = "alejandrohenao91@gmail.com"
     phone = "+57 318 7970321"
-    address = "Guarne, Colombia"
+    address = "Medellín, Colombia"
     year = 2023
-    avatar = "images/guy.jpg"
+    avatar = "images/picture1.png"
     avatarclass = "circle"
     background = ""
-    banner = "images/bg_head.jpg"
+    banner = "images/picture2.jpeg"
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
     author = "Alejandro Henao"
 
     showSubheader = true
-    showServices = true
+    showServices = false
     showRecentWorks = true
-    showDownloads = true
-    showClients = true
+    showDownloads = false
+    showClients = false
 
     showFooterContact = true
     showFooterFollowMe = true
-    showFooterTextWidget = true
+    showFooterTextWidget = false
     showFooterFormWidget = true
 
 [[menu.main]]
@@ -50,36 +50,29 @@ theme = "hugo-initio"
 
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/alejohenao98"
     icon = "fab fa-twitter-square"
     footer = true
     sharethis = true
     network = "twitter"
 [[params.social]]
-	title = "instagram"
-	url = "https://www.instagram.com/nickname"
-    icon = "fab fa-instagram"
-    footer = true
-    sharethis = false
-    network = ""
-[[params.social]]
 	title = "linkedin"
-	url = "https://www.linkedin.com/in/nickname"
+	url = "https://www.linkedin.com/in/alejandro-henao-zapata-95855511a/"
     icon = "fab fa-linkedin"
-    footer = false
+    footer = true
     sharethis = true
     network = "linkedin"
 [[params.social]]
 	title = "github"
-	url = "https://github.com/nickname"
+	url = "https://github.com/alejohz"
     icon = "fab fa-github"
     footer = true
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:alejandrohenao91@gmail.com"
     icon = "fas fa-envelope-square"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
