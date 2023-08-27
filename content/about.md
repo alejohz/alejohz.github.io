@@ -5,14 +5,12 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+I am a determined and resourceful individual with skills in programming, data science, and machine learning. I really enjoy doing exercise, swimming, biking, running and triatlhon. I also enjoy cooking and trekking up high mountains. This is a picture of me in Nevado Santa Isabel around Manizales Colombia.
 
-![about](../images/mac.jpg)
+![about](../images/santaisabel.jpg)
 
-### Necessitatibus
+### About this page
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+This page tries to compile some nice demos i have developed over the years, some are only links to github repos and others have been deployed with free services. 
 
-### Fugit, laboriosam
-
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+Special mention to ElephantSQL, Glitch, Github for their amazing free tiers that allowed me to deploy some of these demos.
