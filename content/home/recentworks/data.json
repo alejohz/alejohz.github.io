@@ -18,5 +18,25 @@
                 "url": "#"
             }
         ]
+    },
+    {
+        "id": 1,
+        "name": "NLP with Pytortch Lighting (MLOps)",
+        "image": "images/s2.jpg",
+        "url": "https://github.com/alejohz/mlops-grammar-check",
+        "items": [
+            {
+                "name": "NLP",
+                "url": "#"
+            },
+            {
+                "name": "MLOPS",
+                "url": "#"
+            },
+            {
+                "name": "Pytorch, Weight and Bias, Docker",
+                "url": "#"
+            }
+        ]
     }
 ]
