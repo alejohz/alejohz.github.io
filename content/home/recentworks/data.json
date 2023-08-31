@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Automated Model Deployment",
-        "image": "images/s1.jpg",
+        "image": "images/mlops.jpg",
         "url": "https://github.com/alejohz/automated-model-deployment",
         "items": [
             {
@@ -22,7 +22,7 @@
     {
         "id": 1,
         "name": "NLP with Pytortch Lighting (MLOps)",
-        "image": "images/s2.jpg",
+        "image": "images/pytorch_lightning.png",
         "url": "https://github.com/alejohz/mlops-grammar-check",
         "items": [
             {
@@ -35,6 +35,22 @@
             },
             {
                 "name": "Pytorch, Weight and Bias, Docker",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "XGBoost deployed with AWS Sagemaker",
+        "image": "images/sagemaker.jpeg",
+        "url": "https://github.com/alejohz/ABICHALLENGE_ALEJANDRO-HENAO",
+        "items": [
+            {
+                "name": "XGBoost",
+                "url": "#"
+            },
+            {
+                "name": "AWS Sagemaker",
                 "url": "#"
             }
         ]
