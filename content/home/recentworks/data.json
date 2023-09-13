@@ -1,9 +1,7 @@
 [
     {
         "id": 0,
-        "name": "Automated Model Deployment",
         "image": "images/mlops.jpg",
-        "url": "https://github.com/alejohz/automated-model-deployment",
         "items": [
             {
                 "name": "Frontend (Streamlit)",
@@ -17,13 +15,13 @@
                 "name": "SQL and Github Actions",
                 "url": "#"
             }
-        ]
+        ],
+        "name": "Automated Model Deployment",
+        "url": "https://github.com/alejohz/automated-model-deployment"
     },
     {
         "id": 1,
-        "name": "NLP with Pytortch Lighting (MLOps)",
         "image": "images/pytorch_lightning.png",
-        "url": "https://github.com/alejohz/mlops-grammar-check",
         "items": [
             {
                 "name": "NLP",
@@ -37,13 +35,13 @@
                 "name": "Pytorch, Weight and Bias, Docker",
                 "url": "#"
             }
-        ]
+        ],
+        "name": "NLP with Pytortch Lighting (MLOps)",
+        "url": "https://github.com/alejohz/mlops-grammar-check"
     },
     {
         "id": 2,
-        "name": "XGBoost deployed with AWS Sagemaker",
         "image": "images/sagemaker.jpeg",
-        "url": "https://github.com/alejohz/ABICHALLENGE_ALEJANDRO-HENAO",
         "items": [
             {
                 "name": "XGBoost",
@@ -53,6 +51,28 @@
                 "name": "AWS Sagemaker",
                 "url": "#"
             }
-        ]
+        ],
+        "name": "XGBoost deployed with AWS Sagemaker",
+        "url": "https://github.com/alejohz/ABICHALLENGE_ALEJANDRO-HENAO"
+    },
+    {
+        "id": 3,
+        "image": "images/langchain.png",
+        "items": [
+            {
+                "name": "LangChain 🦜🔗",
+                "url": "#"
+            },
+            {
+                "name": "NLP",
+                "url": "#"
+            },
+            {
+                "name": "LLM",
+                "url": "#"
+            }
+        ],
+        "name": "LangChain - LLM and NLP applications",
+        "url": "https://github.com/alejohz/LLM-heaven"
     }
 ]
